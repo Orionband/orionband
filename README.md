@@ -1,21 +1,5 @@
 # Welcome to my Github Profile
-## Languages && Skills
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-## Cool Statics Stuff
-![](https://komarev.com/ghpvc/?username=marcghacc&color=red)
-[![trophy](https://github-profile-trophy.vercel.app/?username=marcghacc&theme=gruvbox&column=-1&no-frame=true&margin-w=13&title=MultiLanguage,Stars,Followers,Repositories,Experience,Commits,PullRequest,Issues,Organizations)](https://github.com/ryo-ma/github-profile-trophy)
-<table class="tg" cellspacing="0" cellpadding="0" style="border:none;">
-  <tr style="border:none;">
-    <td class="tg-0pky" style="border:none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=marcghacc&theme=gruvbox&hide_border=true" />
-    </td>
-    <td class="tg-0pky" rowspan="2" style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcghacc&theme=gruvbox&hide_border=true&langs_count=8" />
-    </td>
-  </tr>
-  <tr style="border:none;">
-    <td class="tg-0pky" style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=marcghacc&show_icons=true&theme=gruvbox&hide_border=true" />
-    </td>
-  </tr>
-</table>
+Me is very tired and eepy. Me like food
+What I am doing:
+Learning Cybersecurity
+Learning different coding languages
