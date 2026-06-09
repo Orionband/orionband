@@ -1,5 +1,6 @@
 # Welcome to my Github Profile
 Me is very tired and eepy. Me like food
 What I am doing:
-Learning Cybersecurity
-Learning different coding languages
+Learning Cybersecurity  
+Learning Networking  
+idk
